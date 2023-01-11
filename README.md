@@ -18,4 +18,4 @@
 
 <!-- Stats about me on Github -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanesmtt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanesmtt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanesmtt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
