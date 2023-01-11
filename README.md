@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariolanes/)](https://www.linkedin.com/in/mariolanes/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/mlanes)](https://codepen.io/mlanes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario.lanesjr@gmail.com)](mailto:mario.lanesjr@gmail.com)
+![](https://komarev.com/ghpvc/?username=mlanesmtt&style=for-the-badge) 
 
 ## About Me
 <samp>I am a Software Developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
@@ -19,7 +20,3 @@
 <!-- Stats about me on Github -->
 ![](https://github-readme-stats.vercel.app/api?username=mlanes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mlanesmtt&theme=radical&hide_border=false)
-
-<div align="center">
-![](https://komarev.com/ghpvc/?username=mlanesmtt&style=flat-square) 
-</div>
