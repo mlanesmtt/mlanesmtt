@@ -22,6 +22,6 @@
 ## Stats
 
 <!-- Stats about me on Github -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanesmtt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanesmtt&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mlanesmtt&theme=radical&hide_border=false) 
