@@ -9,7 +9,12 @@
 
 ## About Me
 
-<samp>I am a Software Developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
+<samp>
+  I am a technology enthusiast. I started early as a developer. My first contact with programming was at 14 years old and I hold a high school degree in computer technician at 16 years old.
+  I ended up liking the area a lot, even going to college in System Analysis and Development (similar to Computer Science) and working as a Front-End Developer in a consulting company at 18 years old.
+  I always try to do my best even dedicating myself as much as I can. Being involved in the world of technology for me means being close to solving everyday problems, and making people’s lives easily. Furthermore, learning, teaching, and helping are always a pleasure.
+  I am a Brazilian native speaker and I am studying English.
+</samp>
 
 ## Curiosities
 
